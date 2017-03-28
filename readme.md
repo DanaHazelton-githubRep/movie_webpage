@@ -5,8 +5,8 @@ Devoplep server side software to display a website that allows viewers to gain i
 about a movie, to include the movie trailor.
 
 ## Prerequisites:
--Python 2.7 or >
--Goggle chrome, Firefox
+- Python 2.7 or greater
+- Goggle chrome, Firefox, IE
 
 ## Files Included:
 - media.py
@@ -18,7 +18,7 @@ about a movie, to include the movie trailor.
 - readme.md
 
 ## Installation:
-- 
+- https://github.com/Partybarge02/movie_webpage.git
 
 ## How to Run
 -
