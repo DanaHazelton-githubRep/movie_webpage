@@ -18,10 +18,14 @@ about a movie, to include the movie trailor.
 - readme.md
 
 ## Installation:
-- https://github.com/Partybarge02/movie_webpage.git
+- From Terminal:
+	-Create a directory at location desired
+	-type - git clone  https://github.com/Partybarge02/movie_webpage.git
 
 ## How to Run
--
+- From Terminal:
 
-##Cotributors
+
+##Contributors:
 - Dana Hazelton - dphaz@bellsouth.net
+- Udacity - Full Stack Web Developer Nanodegree
