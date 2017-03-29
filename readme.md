@@ -10,26 +10,26 @@ about a movie, to include the movie trailor.
 
 ## Files Included:
 - media.py
-	-This file defines the class Movie.
+	- This file defines the class Movie.
 - party_barge_movie_list.py
-	-In this file, the instances of the class Movie are defined
+	- In this file, the instances of the class Movie are defined
 - fresh_tomatos.py
-	-Generates the html file to be displayed to the client
+	- Generates the html file to be displayed to the client
 - readme.md
 
 ## Installation:
 - From a Terminal window:
-	-Create a directory at location desired
-	-type - git clone  https://github.com/Partybarge02/movie_webpage.git
-	-Directory you created should now have the four files listed above.
+	- Create a directory at location desired
+	- type - git clone  https://github.com/Partybarge02/movie_webpage.git
+	- Directory you created should now have the four files listed above.
 
 ## How to Run
 - From a Terminal window:
-	-Navigate to directory containing files listed above.
-	-Run the file party_barge_movie_list.py using python.
-		-dana (master) movies $python party_barge_movie_list.py using python
-	-This should open the HTML in your default web browser.
-		-After the initial run you will just need to open the HTML file created.	
+	- Navigate to directory containing files listed above.
+	- Run the file party_barge_movie_list.py using python.
+		- dana (master) movies $python party_barge_movie_list.py using python
+	- This should open the HTML in your default web browser.
+		- After the initial run you will just need to open the HTML file created.	
 
 
 ## Contributors:
