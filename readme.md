@@ -18,14 +18,20 @@ about a movie, to include the movie trailor.
 - readme.md
 
 ## Installation:
-- From Terminal:
+- From a Terminal window:
 	-Create a directory at location desired
 	-type - git clone  https://github.com/Partybarge02/movie_webpage.git
+	-Directory you created should now have the four files listed above.
 
 ## How to Run
-- From Terminal:
+- From a Terminal window:
+	-Navigate to directory containing files listed above.
+	-Run the file party_barge_movie_list.py using python.
+		-dana (master) movies $python party_barge_movie_list.py using python
+	-This should open the HTML in your default web browser.
+		-After the initial run you will just need to open the HTML file created.	
 
 
-##Contributors:
+## Contributors:
 - Dana Hazelton - dphaz@bellsouth.net
 - Udacity - Full Stack Web Developer Nanodegree
