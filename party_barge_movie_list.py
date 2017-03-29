@@ -5,7 +5,7 @@
 # After running this code, open the file partybarge_movies.html to
 # see moive webpage!
 
-
+# import external files to use
 import fresh_tomatos
 import media
 
@@ -32,7 +32,7 @@ grown_ups = media.Movie(
   "former teammates reunite for a Fourth of July holiday weekend.",
   "https://upload.wikimedia.org/wikipedia/en/f/fe/Grownupsmovie.jpg",
   "https://www.youtube.com/watch?v=e01NVCveGkg",
-              "PG")
+  "PG")
 
 step_brothers = media.Movie("Step Brothers",
   "Two aimless middle-aged losers still living at home are forced against their"
@@ -42,7 +42,7 @@ step_brothers = media.Movie("Step Brothers",
   "R")
 
 _300 = media.Movie(
-  "300",
+ "300",
  "King Leonidas of Sparta and a force of 300 men fight the Persians at "
  "Thermopylae in 480 B.C.",
  "https://upload.wikimedia.org/wikipedia/en/5/5c/300poster.jpg",
@@ -91,7 +91,8 @@ movies = [gladiator,happy_gilmore,grown_ups,step_brothers,_300,
           smokey_and_the_bandit,shinnig,halloween,nightmare_on_elm_street]
 
 
-
+#goto fresh_tomatos.py file and call open_movies_page function
+#passing in a list called movies.
 fresh_tomatos.open_movies_page(movies)
 
 
